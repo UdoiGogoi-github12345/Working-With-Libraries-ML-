@@ -2,8 +2,7 @@
 
 _For the rendered tutorials, see https://numpy.org/numpy-tutorials/._
 
-The goal of this repository is to provide high-quality resources by the
-NumPy project, both for self-learning and for teaching classes with. If you're
+The goal of this repository is to provide high-quality resources , both for self-learning and for teaching classes with. If you're
 interested in adding your own content, check the [Contributing](#contributing)
 section. This set of tutorials and educational materials is not a part of the
 NumPy source tree.
